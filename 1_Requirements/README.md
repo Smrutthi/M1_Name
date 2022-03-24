@@ -12,4 +12,4 @@ Different number systems are used in electronics and digital system. There are f
 ## 4. Hexadecimal Number System
 * Uses ten digits and six letters that are 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
 * Also called base 10 number system
-* 
+* Letters represent A=10, B=11, C=12, D=13, E=14, F=15
