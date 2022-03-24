@@ -1,2 +1,2 @@
 # Introduction:
-### Different number systems are used in electronics and digital system
+Different number systems are used in electronics and digital system
