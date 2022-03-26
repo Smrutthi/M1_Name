@@ -6,6 +6,7 @@ The number system is a form of expressing numbers. Different number systems are 
 ## 2. Binary Number System
 * Uses two digits that are 0 and 1
 * Also called base 2 number system
+* Used in digital systems
 ## 3. Octal Number System
 * Uses eight digits from 0 to 7
 * Also called base 8 number system
@@ -13,6 +14,7 @@ The number system is a form of expressing numbers. Different number systems are 
 * Uses ten digits and six letters that are 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
 * Also called base 10 number system
 * Letters represent A=10, B=11, C=12, D=13, E=14, F=15
+* Used in microprocessor and microcontroller
 # Feature
 This project works with the conversion of decimal number system to any other number system and binary number system to any other number system
 # Example
