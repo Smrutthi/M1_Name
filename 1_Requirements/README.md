@@ -17,3 +17,14 @@ Different number systems are used in electronics and digital system. There are f
 This project works with the conversion of decimal number system to any other number system and binary number system to any other number system
 # Example
 ![Example](https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg)
+# StWOT Analysis
+## Strength
+## Weakness
+## Opporunity
+## Threat
+# 4W's and 1 H
+## What
+## Why
+## When
+## Who
+## How
