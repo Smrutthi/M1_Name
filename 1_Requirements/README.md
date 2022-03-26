@@ -22,6 +22,7 @@ This project works with the conversion of decimal number system to any other num
 ![Example](https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg)
 # SWOT Analysis
 ## Strength
+This project can easily convert the given decimal or binary number to any other number system quickly
 ## Weakness
 ## Opporunity
 ## Threat
