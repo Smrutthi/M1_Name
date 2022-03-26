@@ -1,2 +1,2 @@
-#### Structural Diagram
-#### Behavioral Diagram
+## 1. Structural Diagram
+## 2. Behavioral Diagram
