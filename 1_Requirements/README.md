@@ -10,6 +10,7 @@ The number system is a form of expressing numbers. Different number systems are 
 ## 3. Octal Number System
 * Uses eight digits from 0 to 7
 * Also called base 8 number system
+* Used in computer application sectors
 ## 4. Hexadecimal Number System
 * Uses ten digits and six letters that are 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
 * Also called base 10 number system
