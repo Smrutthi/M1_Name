@@ -1,5 +1,5 @@
 # Introduction
-Different number systems are used in electronics and digital system. There are four types of the number systems namely decimal, binary, octal and hexadecimal number system. The base of the number system is the total number of the digit used in number system. This project reduces the time for calculating the number system conversion without doing manually. This project converts one type of number system to another type of number system.
+The number system is a form of expressing numbers. Different number systems are used in electronics and digital system. There are four types of the number systems namely decimal, binary, octal and hexadecimal number system. The base of the number system is the total number of the digit used in number system. This project reduces the time for calculating the number system conversion without doing manually. This project converts one type of number system to another type of number system.
 ## 1. Decimal Number System
 * Uses ten digits from 0 to 9
 * Also called base 10 number system
@@ -25,6 +25,7 @@ This project works with the conversion of decimal number system to any other num
 # 4W's and 1 H
 ## What
 ## Why
+This project is useful to avoid and hacking of datas which are represented in the form of numbers
 ## When
 ## Who
 ## How
