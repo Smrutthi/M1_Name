@@ -26,8 +26,11 @@ This project works with the conversion of decimal number system to any other num
 * Less computational errors
 * Easily operating with large numbers
 ## Weakness
-## Opporunity
+* 
+## Opportunity
+* Optimization of current system
 ## Threat
+*
 # 4W's and 1 H
 ## What
 ## Why
