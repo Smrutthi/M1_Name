@@ -17,8 +17,8 @@ The number system is a form of expressing numbers. Different number systems are 
 * Uses ten digits and six letters that are 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
 * Also called base 10 number system
 * Letters represent A=10, B=11, C=12, D=13, E=14, F=15
-* Used in microprocessor and microcontroller
-# Feature
+* Used in microprocessor and microcontroller systems
+# Features
 In computer system architecture, number systems are a technique for representing numbers. This project works with the conversion of decimal number system to any other number system and binary number system to any other number system for any positive value input.
 # Example
 ![Example](https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg)
@@ -40,6 +40,8 @@ This project converts the given decimal or binary number system to other bases i
 ## Why
 This project is useful to avoid and hacking of datas which are represented in the form of numbers
 ## When
+This project can be used at the time of designing the digital circuit
 ## Who
 This project can be useful for digital circuit developers as well as for students for performing quick calculation
 ## How
+This project helps to perform the conversion calculation in order to reduce the users time
