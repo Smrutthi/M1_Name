@@ -27,7 +27,7 @@ This project works with the conversion of decimal number system to any other num
 * Easily operating with large numbers
 ## Weakness
 * This project can't convert negative data values
-* 
+* This project doesn't convert the octal and hexadecimal to any other number system
 ## Opportunity
 * Optimization of current system
 ## Threat
