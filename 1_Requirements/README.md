@@ -46,3 +46,6 @@ This project can be used at the time of designing the digital circuit
 This project can be useful for digital circuit developers as well as for students for performing quick calculation
 ## How
 This project helps to perform the conversion calculation in order to reduce the users time
+# Requirement
+* Able to convert decimal to any other number system and binary to any other number system
+* Convert any positive data values
