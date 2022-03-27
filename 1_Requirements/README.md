@@ -19,7 +19,7 @@ The number system is a form of expressing numbers. Different number systems are 
 * Letters represent A=10, B=11, C=12, D=13, E=14, F=15
 * Used in microprocessor and microcontroller
 # Feature
-This project works with the conversion of decimal number system to any other number system and binary number system to any other number system for any positive value input.
+In computer system architecture, number systems are a technique for representing numbers. This project works with the conversion of decimal number system to any other number system and binary number system to any other number system for any positive value input.
 # Example
 ![Example](https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg)
 # SWOT Analysis
