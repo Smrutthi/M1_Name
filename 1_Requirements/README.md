@@ -26,6 +26,7 @@ This project works with the conversion of decimal number system to any other num
 * Less computational errors
 * Easily operating with large numbers
 ## Weakness
+* This project can't convert negative data values
 * 
 ## Opportunity
 * Optimization of current system
