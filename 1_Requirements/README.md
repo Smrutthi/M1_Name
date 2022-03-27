@@ -41,4 +41,5 @@ In computer system architecture, number systems are a technique for representing
 This project is useful to avoid and hacking of datas which are represented in the form of numbers
 ## When
 ## Who
+This project can be useful for digital circuit developers as well as for students for performing quick calculation
 ## How
