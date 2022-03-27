@@ -31,7 +31,7 @@ This project works with the conversion of decimal number system to any other num
 ## Opportunity
 * Optimization of current system
 ## Threat
-*
+* Emphasis on limited schemes
 # 4W's and 1 H
 ## What
 ## Why
