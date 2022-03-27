@@ -5,6 +5,7 @@ The number system is a form of expressing numbers. Different number systems are 
 ## 1. Decimal Number System
 * Uses ten digits from 0 to 9
 * Also called base 10 number system
+* Used in number calculations
 ## 2. Binary Number System
 * Uses two digits that are 0 and 1
 * Also called base 2 number system
