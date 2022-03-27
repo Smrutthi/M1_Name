@@ -1,5 +1,7 @@
 # Introduction
 The number system is a form of expressing numbers. Different number systems are used in electronics and digital system. Number system represents the value of a number with respect to its given base. There are four types of the number systems namely decimal, binary, octal and hexadecimal number system. This project reduces the time for calculating the number system conversion without doing manually. This project converts one type of number system to another type of number system.
+
+![numbersystem](https://kvblycluster.files.wordpress.com/2020/08/image-22.png)
 ## 1. Decimal Number System
 * Uses ten digits from 0 to 9
 * Also called base 10 number system
