@@ -36,6 +36,7 @@ In computer system architecture, number systems are a technique for representing
 * Emphasis on limited schemes
 # 4W's and 1 H
 ## What
+This project converts the given decimal or binary number system to other bases in a short time
 ## Why
 This project is useful to avoid and hacking of datas which are represented in the form of numbers
 ## When
