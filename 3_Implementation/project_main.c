@@ -77,7 +77,6 @@ int binarytooctal(long int n){
 	   dec=dec+(b*a);
 	   i++;
 	}
-    d=dec;
     i=1;
     for(j=dec;j>0;j=j/8){
         octal=octal+(j % 8)*i;
@@ -87,11 +86,11 @@ int binarytooctal(long int n){
     printf("\nThe octal  number: %d ",octal);
 }
 int binarytodecimal(long int num) {
-    int decimal = 0, base = 1, rem;
+    int decimal = 0, base = 1, r;
     while(num> 0)
     {
-        rem = num % 10;
-        decimal = decimal + rem * base;
+        r = num % 10;
+        decimal = decimal + r * base;
         num = num / 10;
         base = base * 2;
     }
