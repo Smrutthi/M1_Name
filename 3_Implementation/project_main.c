@@ -99,37 +99,7 @@ int binarytodecimal(long int num) {
 }
 int binarytohexa(long int bin)
 {
-    long int hex=0, mul=1, count=1, r, i;
-    char hexa[20];
-    while(bin!=0)
-    {
-        r=bin%10;
-        hex=hex+(r*mul);
-        if(count%4==0)
-        {
-            if(hex<10)
-                hexa[i] = hex+48;
-            else
-                hexa[i] = hex+55;
-            mul = 1;
-            hex = 0;
-            count = 1;
-            i++;
-        }
-        else
-        {
-            mul = mul*2;
-            count++;
-        }
-        bin = bin/10;
-    }
-    if(count!=1)
-        hexa[i] = hex+48;
-    if(count==1)
-        i--;
-    printf("\nThe hexadecimal number: ");
-    for(i=0; i>=0; i--)
-        printf("%c", hexa[i]);
+
 }
 int main()
 {
