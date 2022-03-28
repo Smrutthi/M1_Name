@@ -49,3 +49,8 @@ This project helps to perform the conversion calculation in order to reduce the 
 # Requirement
 * Able to convert decimal to any other number system and binary to any other number system
 * Convert any positive data values
+# Table
+| Description | Implementation |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
