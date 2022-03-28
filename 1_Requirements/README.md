@@ -47,10 +47,7 @@ This project can be useful for digital circuit developers as well as for student
 ## How
 This project helps to perform the conversion calculation in order to reduce the users time
 # Requirement
-* Able to convert decimal to any other number system and binary to any other number system
-* Convert any positive data values
-# Table
-| Description | Implementation |
+| Description | Status |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Able to convert decimal to any other number system and binary to any other number system | Implemented |
+| Convert any positive data values | Implemented |
