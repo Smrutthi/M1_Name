@@ -99,7 +99,7 @@ int binarytodecimal(long int num) {
 }
 int binarytohexa(long int bin)
 {
-    long int hex=0, mul=1, count=1, r, i=0;
+    long int hex=0, mul=1, count=1, r, i;
     char hexa[20];
     while(bin!=0)
     {
@@ -128,7 +128,7 @@ int binarytohexa(long int bin)
     if(count==1)
         i--;
     printf("\nThe hexadecimal number: ");
-    for(i=i; i>=0; i--)
+    for(i=0; i>=0; i--)
         printf("%c", hexa[i]);
 }
 int main()
