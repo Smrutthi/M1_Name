@@ -66,14 +66,14 @@ void test_binarytodecimal(void) {
 }
 
 void test_binarytooctal(void) {
-  TEST_ASSERT_EQUAL(0, binarytooctal(1));
+  TEST_ASSERT_EQUAL(151, binarytooctal(1101001));
   
   /* Dummy fail*/
   TEST_ASSERT_EQUAL(1, binarytooctal(2));
 }
 
 void test_binarytohexa(void) {
-  TEST_ASSERT_EQUAL(0, binarytohexa(1));
+  TEST_ASSERT_EQUAL(5A, binarytohexa(1011010));
   
   /* Dummy fail*/
   TEST_ASSERT_EQUAL(1, binarytohexa(2));
