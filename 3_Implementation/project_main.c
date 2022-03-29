@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<numberconversion.h>
 int decimaltobinary(long int n)
 {
 long int r[50],i=0,len=0;
