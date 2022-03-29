@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Number_Conversion
+PROJECT_NAME = Number_conversion
 
 # Output directory
 BUILD = build
