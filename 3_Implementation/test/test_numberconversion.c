@@ -41,40 +41,40 @@ void test_decimaltobinary(void) {
   TEST_ASSERT_EQUAL(101101, decimaltobinary(45));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(15000, add(7500, 7500));
+  TEST_ASSERT_EQUAL(15000, decimaltobinary(7500, 7500));
 }
 
 void test_decimaltooctal(void) {
-  TEST_ASSERT_EQUAL(33, subtract(27));
+  TEST_ASSERT_EQUAL(33, decimaltooctal(27));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(100, subtract(1000, 900));
+  TEST_ASSERT_EQUAL(100, decimaltooctal(1000));
 }
 
 void test_decimaltohexadecimal(void) {
-  TEST_ASSERT_EQUAL(3B, multiply(59));
+  TEST_ASSERT_EQUAL(3B, decimaltohexadecimal(59));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(10, multiply(2, 5));
+  TEST_ASSERT_EQUAL(10, decimaltohexadecimal(2));
 }
 
 void test_binarytodecimal(void) {
-  TEST_ASSERT_EQUAL(51, divide(110011));
+  TEST_ASSERT_EQUAL(51, binarytodecimal(110011));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, divide(2, 2));
+  TEST_ASSERT_EQUAL(1, binarytodecimal(2));
 }
 
 void test_binarytooctal(void) {
-  TEST_ASSERT_EQUAL(0, divide(1, 0));
+  TEST_ASSERT_EQUAL(0, binarytooctal(1));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, divide(2, 2));
+  TEST_ASSERT_EQUAL(1, binarytooctal(2));
 }
 
 void test_binarytohexa(void) {
-  TEST_ASSERT_EQUAL(0, divide(1, 0));
+  TEST_ASSERT_EQUAL(0, binarytohexa(1));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, divide(2, 2));
+  TEST_ASSERT_EQUAL(1, binarytohexa(2));
 }
