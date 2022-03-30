@@ -5,7 +5,7 @@
 
  Build | Unity test | cppcheck | Valgrind | Git Inspector | Analysis
  -------|-------------|----------|-----------|-------------|----------
- [![Build CI - Linux](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/c-cpp.yml)|[![Unit testing](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/unit.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/unit.yml)|[![cppcheck-action](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/cppcheck.yml)|[![Analysis](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/Analysis.yml)
+ [![Build CI - Linux](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/c-cpp.yml)|[![Unit testing](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/unit.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/unit.yml)|[![cppcheck-action](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/valgrind.yml)|[![Contribution Check - Git Inspector](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Smrutthi/M1_Number_Conversion/actions/workflows/git_inspector.yml)|[![Analysis](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/Analysis.yml)
 # Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
@@ -14,19 +14,20 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_TestPlanandOutput`      | Documents with test plans and output
 `5_Report`  | Document consisting of all details
-## Contributors List and Summary
+`6_ImagesandVideo` | Document holding output images and video
+# Contributor List and Summary
 S No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
 1      | Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 0        |0  | 0 | 0    
-## Integrated Tools to GitHub
+# Integrated Tools to GitHub
 * [Codacy](https://www.codacy.com/)
 * [Codiga](https://www.codiga.io/)
-## GitHub Actions
+# GitHub Actions
 * Build using Make for CI
 * Unit tests with Cunit
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
-## Learning Resources
+# Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
 3. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
