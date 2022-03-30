@@ -4,4 +4,4 @@
 Codiga - ![Codiga Badge](https://api.codiga.io/project/32209/status/svg)
           ![Codiga score](https://api.codiga.io/project/32209/status/svg)
 cppcheck - [![cppcheck-action](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/cppcheck.yml)
-Build - ![build](
+Build - ![build]([![Build CI - Linux](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Smrutthi/M1_NumberConversion/actions/workflows/c-cpp.yml))
