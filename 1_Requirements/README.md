@@ -21,9 +21,13 @@ The number system is a form of expressing numbers. Different number systems are 
 * Used in microprocessor and microcontroller systems
 # Features
 In computer system architecture, number systems are a technique for representing numbers. This project works with the conversion of decimal number system to any other number system and binary number system to any other number system for any positive value input.
+# Defining our System
+![Number System drawio](https://user-images.githubusercontent.com/89585989/160885184-d99b9c35-180d-4bf4-96da-623e19855a3d.png)
 # Example
 ![Example](https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg)
 # SWOT Analysis
+
+![swot](https://www.medicalplasticsnews.com/downloads/6785/download/SWOT.jpg?cb=4d507224ca7dc40cf9da8555e9ea927a&w=1000)
 ## Strength
 * This project can easily convert the given decimal or binary number to any other number system quickly
 * Less computational errors
@@ -47,7 +51,14 @@ This project can be useful for digital circuit developers as well as for student
 ## How
 This project helps to perform the conversion calculation in order to reduce the users time
 # Requirement
-| Description | Status |
+## High Level Requirements
+| ID  | Description | Status |
 | --- | --- |
-| Able to convert decimal to any other number system and binary to any other number system | Implemented |
-| Convert any positive data values | Implemented |
+| HLR-1 | Able to convert decimal to any other number system and binary to any other number system | Implemented |
+| HLR-2 | Convert any positive data values | Implemented |
+| HLR-3 | Able to convert any negative values | Future |
+## Low Level Requirements
+| ID  | Description | Status |
+| --- | --- |
+| LLR-1 | User able to read output data | Implemented |
+| LLR-2 | Displays output data without any errors | Implemented |
