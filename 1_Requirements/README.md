@@ -27,7 +27,7 @@ In computer system architecture, number systems are a technique for representing
 ![Example](https://www.electronicshub.org/wp-content/uploads/2015/05/Untitled1dd.jpg)
 # SWOT Analysis
 
-![swot](https://www.medicalplasticsnews.com/downloads/6785/download/SWOT.jpg?cb=4d507224ca7dc40cf9da8555e9ea927a&w=1000)
+![swot](https://cdn.searchenginejournal.com/wp-content/uploads/2021/02/swot-analysis-seo-602cb5beef729-760x400.png)
 ## Strength
 * This project can easily convert the given decimal or binary number to any other number system quickly
 * Less computational errors
