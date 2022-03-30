@@ -1,4 +1,4 @@
-# M1_NumberConversion
+# M1_Number_System_Conversion
 # Badges
 * Codacy -  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b44c801786244537b3b39aef3b101b1b)](https://www.codacy.com/gh/Smrutthi/M1_NumberConversion/dashboardutm_source=github.com&amp;utm_medium=referral&amp;utm_content=Smrutthi/M1_NumberConversion&amp;utm_campaign=Badge_Grade)
 * Codiga - ![Codiga Badge](https://api.codiga.io/project/32209/score/svg)![Codiga score](https://api.codiga.io/project/32209/status/svg)
@@ -12,6 +12,12 @@ Folder             | Description
 `1_Requirements`   | Documents detailing requirements and research
 `2_Architecture`         | Documents specifying design details
 `3_Implementation` | All code and documentation
-`4_Testplanandoutput`      | Documents with test plans and output
+`4_TestPlanandOutput`      | Documents with test plans and output
 `5_Report`  | Document consisting of all details
-#
+## Contributors List and Summary
+S No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------------------|----------------|----------------|---------------|-------------|--------------
+1      | Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 0        |0  | 0 | 0    
+## Integrated Tools to GitHub
+* [Codacy](https://www.codacy.com/)
+* [Codiga](https://www.codiga.io/)
