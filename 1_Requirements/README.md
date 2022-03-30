@@ -53,12 +53,12 @@ This project helps to perform the conversion calculation in order to reduce the 
 # Requirement
 ## High Level Requirements
 | ID  | Description | Status |
-| --- | --- |
+| --- | --- | --- |
 | HLR-1 | Able to convert decimal to any other number system and binary to any other number system | Implemented |
 | HLR-2 | Convert any positive data values | Implemented |
 | HLR-3 | Able to convert any negative values | Future |
 ## Low Level Requirements
 | ID  | Description | Status |
-| --- | --- |
+| --- | --- | --- |
 | LLR-1 | User able to read output data | Implemented |
 | LLR-2 | Displays output data without any errors | Implemented |
