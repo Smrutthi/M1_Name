@@ -1,10 +1,4 @@
 #include<numberconversion.h>
-int decimaltobinary(void);
-int decimaltooctal(void);
-int decimaltohexadecimal(void);
-int binarytodecimal(void);
-int binarytooctal(void);
-int binarytohexa(void);
 int decimaltobinary(long int n)
 {
 long int r[50],i=0,len=0;
