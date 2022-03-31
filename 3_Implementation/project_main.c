@@ -94,17 +94,18 @@ int binarytodecimal(long int num) {
         num = num / 10;
         base = base * 2;
     }
-    printf("The Decimal Value = %d\n", decimal);
+    printf("\nThe Decimal number: %d ", decimal);
 }
-int binarytohexa(long int bin){
-	long int hexa = 0, i = 1, rem;
+int binarytohexa(long int bin)
+{
+    long int hexa = 0, i = 1, rem;
 	while (bin != 0){
 		rem=bin % 10;
 		hexa= hexa + rem * i;
 		i= i*2;
 		bin= bin/10;
 	}
-   printf("The hexadecimal number: %lX", hexa);
+   printf("\nThe hexadecimal number: %lX", hexa);
 }
 int main()
 {
