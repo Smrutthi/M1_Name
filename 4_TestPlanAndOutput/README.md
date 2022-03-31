@@ -12,4 +12,4 @@ H_06  | Conversion of binary number 1011010 to hexadecimal | 1011010  | 5A  | 5A
 ## Table no 2: Low level test plan
 Test ID | Description | Exp I/P | Exp O/P | Actual Output | Type of test  
 --------|-------------|---------|---------|---------------|---------------
-L_01  |
+
