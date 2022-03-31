@@ -1,7 +1,9 @@
 # M1_Number_System_Conversion
 # Badges
-* Codacy -  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b44c801786244537b3b39aef3b101b1b)](https://www.codacy.com/gh/Smrutthi/M1_NumberConversion/dashboardutm_source=github.com&amp;utm_medium=referral&amp;utm_content=Smrutthi/M1_NumberConversion&amp;utm_campaign=Badge_Grade)
-* Codiga - ![Codiga Badge](https://api.codiga.io/project/32209/score/svg)![Codiga score](https://api.codiga.io/project/32209/status/svg)
+* Codacy - Static code analysis
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b44c801786244537b3b39aef3b101b1b)](https://www.codacy.com/gh/Smrutthi/M1_NumberConversion/dashboardutm_source=github.com&amp;utm_medium=referral&amp;utm_content=Smrutthi/M1_NumberConversion&amp;utm_campaign=Badge_Grade)
+* Codiga - Static code analysis
+![Codiga Badge](https://api.codiga.io/project/32209/score/svg)![Codiga score](https://api.codiga.io/project/32209/status/svg)
 
  Build | Unity test | cppcheck | Valgrind | Git Inspector | Analysis
  -------|-------------|----------|-----------|-------------|----------
