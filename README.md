@@ -12,11 +12,11 @@
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
-`2_Architecture`         | Documents specifying design details
+`2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
-`4_TestPlanandOutput`      | Documents with test plans and output
+`4_TestPlanAndOutput`      | Documents with test plans and output
 `5_Report`  | Document consisting of all details
-`6_ImagesandVideo` | Document holding output images and video
+`6_ImagesandVideos` | Document holding output images and video
 # Contributor List and Summary
 Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------------------|----------------|----------------|---------------|-------------|--------------
