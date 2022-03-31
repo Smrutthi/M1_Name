@@ -63,3 +63,23 @@ This project helps to perform the conversion calculation in order to reduce the 
 | --- | --- | --- |
 | LLR-1 | User able to read output data | Implemented |
 | LLR-2 | Displays output data without any errors | Implemented |
+## Architecture
+* Structural Diagram
+* Behavioral Diagram
+## 1. Structural Diagram
+Structural diagrams are a type of visual design that depicts the stages required to solve a problem. The structural diagram depicts the hierarchy or structure of the system's many components or modules, as well as how they connect and interact with one another.
+
+![Structural Diagram](https://user-images.githubusercontent.com/89585989/160991786-b9fc63ef-0521-4c2f-9563-63316e07159b.png)
+
+## 2. Behavioral Diagram
+Behavior diagrams depict the items in a system's dynamic behavior which can be represnted as a series of changes over time. A behavior diagram is intended to provide clarity.
+## Test Plan
+## Table no 1: High level test plan
+Test ID | Description | Exp I/P | Exp O/P | Actual Output | Type of test  
+--------|-------------|---------|---------|---------------|---------------
+H_01  | Conversion of decimal number 45 to binary | 45 | 101101 | 101101  | Requirement based
+H_02  | Conversion of decimal number 27 to octal | 27 | 33 | 33 | Requirement based
+H_03  | Conversion of decimal number 59 to hexadecimal | 59 | 3B  | 3B  | Requirement based
+H_04  | Conversion of binary number 110011 to decimal | 110011  | 51  | 51  | Requirement based
+H_05  | Conversion of binary number 1101001 to octal | 1101001  | 151  | 151  | Requirement based
+H_06  | Conversion of binary number 1011010 to hexadecimal | 1011010  | 5A  | 5A  | Requirement based
