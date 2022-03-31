@@ -18,9 +18,20 @@ Folder             | Description
 `5_Report`  | Document consisting of all details
 `6_ImagesandVideo` | Document holding output images and video
 # Contributor List and Summary
-S No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------------------|----------------|----------------|---------------|-------------|--------------
-1      | Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 0        |0  | 0 | 0    
+Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+---------------------|----------------|----------------|---------------|-------------|--------------
+Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 0        |0  | 6 | 6
+# Challenges faced and how it was overcome
+* Generation of makefile: To overcome this problem research on makefiles was done.
+* Unity testing: Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
+Learning Resources
+gcc makefile
+pointers in c
+Number system in digital elecronics
+Dynamic memory allocation
+git inspector
+github workflow
+About
 # Integrated Tools to GitHub
 * [Codacy](https://www.codacy.com/)
 * [Codiga](https://www.codiga.io/)
