@@ -1,4 +1,4 @@
-# Architecture
+# Design
 * Structural Diagram
 * Behavioral Diagram
 ## 1. Structural Diagram
