@@ -12,4 +12,9 @@ H_06  | Conversion of binary number 1011010 to hexadecimal | 1011010  | 5A  | 5A
 ## Table no 2: Low level test plan
 Test ID | Description | Exp I/P | Exp O/P | Actual Output | Type of test  
 --------|-------------|---------|---------|---------------|---------------
-
+L_01  | User entering the choice option 1 | 1 | Conversion of decimal number to binary | Conversion of decimal number to binary  | Requirement based
+L_02  | User entering the choice option 2 | 2 | Conversion of decimal number to octal | Conversion of decimal number to octal | Requirement based
+L_03  | User entering the choice option 3 | 3 | Conversion of decimal number to hexadecimal  | Conversion of decimal number to hexadecimal  | Requirement based
+L_04  | User entering the choice option 4 | 4 | Conversion of binary number to decimal  | Conversion of binary number to decimal | Requirement based
+L_05  | User entering the choice option 5 | 5 | Conversion of binary number to octal  | Conversion of binary number to octal  | Requirement based
+L_06  | User entering the choice option 6 | 6 | Conversion of binary number to hexadecimal  | Conversion of binary number to hexadecimal  | Requirement based
