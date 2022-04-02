@@ -6,7 +6,7 @@ Structural diagrams are a type of visual design that depicts the stages required
 ## Low level structural diagram
 ![Structural Diagram](https://user-images.githubusercontent.com/89585989/160991786-b9fc63ef-0521-4c2f-9563-63316e07159b.png)
 ## High level structural diagram
-
+![hhstructural](https://user-images.githubusercontent.com/89585989/161370565-4af06def-71e8-4824-b6e2-f0f5af5bed9f.png)
 ## 2. Behavioral Diagram
 Behavior diagrams depict the items in a system's dynamic behavior which can be represnted as a series of changes over time. A behavior diagram is intended to provide clarity.
 ## Low level behavioral diagram
