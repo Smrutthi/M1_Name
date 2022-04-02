@@ -23,8 +23,7 @@ Name               |    Features    | Issuess Raised |Issues Resolved|No Test Ca
 ---------------------|----------------|----------------|---------------|-------------|--------------
 Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 0        |0  | 6 | 6
 # Challenges faced and how it was overcome
-* Generation of makefile: To overcome this problem research on makefiles was done
-* Unity testing: Initially a few testcases did not pass, to overcome this issue debugging of program was performed
+
 About
 # Integrated Tools to GitHub
 * [Codacy](https://www.codacy.com/)
