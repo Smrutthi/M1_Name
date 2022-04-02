@@ -11,3 +11,5 @@ Structural diagrams are a type of visual design that depicts the stages required
 Behavior diagrams depict the items in a system's dynamic behavior which can be represnted as a series of changes over time. A behavior diagram is intended to provide clarity.
 ## Low level behavioral diagram
 ![llbehaviordiagram drawio](https://user-images.githubusercontent.com/89585989/161307270-cf345038-4881-4149-8988-dea17b1da0a5.png)
+## High level behavioral diagram
+![hhbehavior drawio](https://user-images.githubusercontent.com/89585989/161389183-e48d6ea8-eb13-4238-a70e-5df11cba4e41.png)
