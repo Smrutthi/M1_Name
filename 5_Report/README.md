@@ -62,13 +62,13 @@ Structural diagrams are a type of visual design that depicts the stages required
 ## Low level structural diagram
 ![Structural Diagram](https://user-images.githubusercontent.com/89585989/160991786-b9fc63ef-0521-4c2f-9563-63316e07159b.png)
 ## High level structural diagram
-
+![hhstructural](https://user-images.githubusercontent.com/89585989/161389242-c44bea10-9191-43ab-9a22-f68dafa3597e.png)
 ## 2. Behavioral Diagram
 Behavior diagrams depict the items in a system's dynamic behavior which can be represnted as a series of changes over time. A behavior diagram is intended to provide clarity.
 ## Low level behavioral diagram
 ![llbehaviordiagram drawio](https://user-images.githubusercontent.com/89585989/161307485-da1ac670-bce9-43f8-8141-087a3b3d6c23.png)
 ## High level behavioral diagram
-
+![hhbehavior drawio](https://user-images.githubusercontent.com/89585989/161389230-caa62e8c-6519-4db1-a2ba-0315ece88d64.png)
 ## Test Plan
 ## Table no 1: High level test plan
 Test ID | Description | Exp I/P | Exp O/P | Actual Output | Type of test  
@@ -88,3 +88,10 @@ L_03  | User entering the choice option 3 | 3 | Conversion of decimal number to 
 L_04  | User entering the choice option 4 | 4 | Conversion of binary number to decimal  | Conversion of binary number to decimal | Requirement based
 L_05  | User entering the choice option 5 | 5 | Conversion of binary number to octal  | Conversion of binary number to octal  | Requirement based
 L_06  | User entering the choice option 6 | 6 | Conversion of binary number to hexadecimal  | Conversion of binary number to hexadecimal  | Requirement based
+## Output
+![Decimal to binary](https://user-images.githubusercontent.com/89585989/161389305-99feabcb-3931-438b-9eeb-babd7a2fd2eb.png)
+![Decimal to octal](https://user-images.githubusercontent.com/89585989/161389350-bb28312d-c2b5-4134-bc62-7a7636744203.png)
+![Decimal to hexadecimal](https://user-images.githubusercontent.com/89585989/161389361-bbfa8d14-050c-444f-82cf-89020408057c.png)
+![Binary to decimal](https://user-images.githubusercontent.com/89585989/161389373-3d875b92-d1d0-4552-9212-1986bf9c9fd9.png)
+![Binary to octal](https://user-images.githubusercontent.com/89585989/161389381-9cd2f79b-2690-4ce4-9ddb-df95ac4b981b.png)
+![Binary to hexadecimal](https://user-images.githubusercontent.com/89585989/161389406-34ccd5f7-d020-4e3f-b8f3-d6fd1f353dad.png)
