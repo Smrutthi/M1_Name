@@ -20,7 +20,7 @@ Folder             | Description
 `6_ImagesandVideos` | Document holding output images and video
 # Contributor List and Summary
 Name               |    Features   |No Test Cases|Test Case Pass
----------------------|----------------|----------------|---------------|-------------|--------------
+---------------------|----------------|----------------|--------------
 Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 6 | 6
 # Challenges faced and how it was overcome
 | No. | Challenge | Solution
