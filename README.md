@@ -25,9 +25,8 @@ Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPla
 # Challenges faced and how it was overcome
 | No. | Challenge | Solution
 |-----|-----------|--------
-|1. |  
-|2. | Unit testing | Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
-|3. | 
+|1. | Issues faced in creating Documentation | Referred steps in template and cleared the issue
+|2. | Unit testing | Initially a few testcases did not pass, to overcome this issue debugging of program was performed
 # Integrated Tools to GitHub
 * [Codacy](https://www.codacy.com/)
 * [Codiga](https://www.codiga.io/)
