@@ -19,12 +19,15 @@ Folder             | Description
 `5_Report`  | Document consisting of all details
 `6_ImagesandVideos` | Document holding output images and video
 # Contributor List and Summary
-Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+Name               |    Features   |No Test Cases|Test Case Pass
 ---------------------|----------------|----------------|---------------|-------------|--------------
-Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 0        |0  | 6 | 6
+Smrutthi   | Entire Project (Requirements, Architecture, Implementation, TestPlanandOutput and Report)  | 6 | 6
 # Challenges faced and how it was overcome
-
-About
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1. |  
+|2. | Unit testing | Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
+|3. | 
 # Integrated Tools to GitHub
 * [Codacy](https://www.codacy.com/)
 * [Codiga](https://www.codiga.io/)
